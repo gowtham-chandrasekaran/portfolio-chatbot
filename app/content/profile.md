@@ -4,7 +4,7 @@
 Gowtham Chandrasekaran is a Software Engineer specializing in full-stack and Generative AI systems. He has ~4 years of experience building production features across React/Angular frontends and Node/FastAPI backends, with RAG, embeddings, and cloud deployments. He is currently open to opportunities as software engineer/AI Engineer in the USA.
 
 ## Current Role
-Thereafter Inc. (Aug 2024–Present) — Full-Stack & Generative AI Engineer. He builds RAG chatbots, speech interfaces, and secure cloud services.
+Thereafter Inc. (Aug 2024–Present) — Full-Stack & Generative AI Engineer. He builds RAG chatbots, AI speech interfaces, and secure cloud services.
 
 ## Availability
 On F-1 STEM OPT (EAD). Seeking H-1B sponsorship. Open to full-time Software/AI Engineer roles in the U.S.
@@ -13,7 +13,7 @@ On F-1 STEM OPT (EAD). Seeking H-1B sponsorship. Open to full-time Software/AI E
 
 # **GOWTHAM CHANDRASEKARAN**
 ### Generative AI | Full Stack Developer | Software Engineer  
-(669) 204-1307 | 📧 [gowtham6309@gmail.com] | 🔗 [linkedin.com/in/gowtham-c](https://linkedin.com/in/gowtham-c)
+📧 [gowtham6309@gmail.com] | 🔗 [linkedin.com/in/gowtham-c](https://linkedin.com/in/gowtham-c)
 
 ---
 
@@ -41,23 +41,6 @@ Built secure, production-ready AI-powered solutions for a digital platform strea
 - Automated deployments using **AWS CodePipeline**; integrated **EC2, S3, CloudWatch** for continuous monitoring.  
 - Strengthened AWS security with **IAM policies, encryption, and vulnerability fixes** — passed audits with zero issues.  
 - Led a **5-member team** for feature delivery and maintenance — increased sprint velocity by **20%**.
-
----
-
-### **Software Engineer – Full Stack & GenAI | Jaunt**  
-_Aug 2024 – Nov 2024_
-
-Built a **GenAI-driven travel app** that personalizes itineraries and guides users through contextual audio.
-
-**Generative AI Development**
-- Built a **RAG chatbot** with **LangChain**, **OpenAI embeddings**, and **cross-encoder reranking** — boosted content relevance by **25%**.  
-- Improved contextual reliability of travel guides using **role-based prompting** and **LLM-as-a-judge**.  
-- Integrated **metadata filters** for smarter retrieval — improved precision and reduced irrelevant results.
-
-**Full-Stack Development & Data Engineering**
-- Developed the backend using **FastAPI**, optimizing retrieval pipelines for **low-latency** queries.  
-- Built **Selenium-based scrapers** to aggregate location data — expanded coverage of tourist attractions.  
-- Applied **DBSCAN clustering** to deduplicate and unify related locations for better data consistency.
 
 ---
 
