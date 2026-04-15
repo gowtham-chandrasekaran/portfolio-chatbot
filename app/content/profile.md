@@ -18,14 +18,27 @@ On F-1 STEM OPT (EAD). Seeking H-1B sponsorship. Open to full-time Software/AI E
 ---
 
 ## **SUMMARY**
-For 4 years, I’ve built production-ready applications that don’t just run — they think. Combining full-stack expertise (**React, Angular, Node.js, Python-FastAPI**) with **Generative AI** in **RAG** and **Agentic AI**, I deliver solutions that are intelligent, scalable, and impactful.
+For 5 years, I’ve built production-ready applications that don’t just run — they think. Combining full-stack expertise (**React, Angular, Node.js, Python-FastAPI**) with **Generative AI** in **RAG** and **Agentic AI**, I deliver solutions that are intelligent, scalable, and impactful.
 
 ---
 
 ## 💼 **WORK EXPERIENCE**
 
-### **Software Engineer – Full Stack & GenAI | Thereafter Inc.**  
-_Aug 2024 – Present_
+### **Senior Data Scientist | Citizens Bank**  
+_Feb 2026 – Present_
+
+Building and deploying GenAI-driven solutions to improve customer support operations and automate call analytics for banking services.
+
+**Generative AI Development**
+- Developing a GenAI-based solution for automated disposition coding of customer care calls between agents and bank customers, improving post-call workflow efficiency and accuracy.
+- Leveraging AWS Connect to process and manage customer call data for real-time and batch analytics use cases.
+- Designing data storage and processing workflows using AWS S3 for scalable and secure handling of call recordings and transcripts.
+- Utilizing GDK (Citizens’ proprietary LLM orchestration framework) to manage LLM calls and coordinate GenAI pipelines for intelligent call classification and summarization.
+
+---
+
+### **GenAI Engineer | Thereafter Inc.**  
+_Aug 2024 – Feb 2026_
 
 Built secure, production-ready AI-powered solutions for a digital platform streamlining end-of-life planning and preserving legacies.
 
